@@ -2,11 +2,25 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Overview
 
-Let's discover **Docusaurus in less than 5 minutes**.
+The <a href="www.nice-train.com">Nice Train Website</a> is the website for Nice Train, our grappling club!
 
-## Getting Started
+The primary goal of the site is to be a catalog of youtube resources that we use to develop drilling programs. There is an art gallery that has been tacked on, but needs to be developed more fully. An online store-front is also in the works.
+
+## Document Structure
+
+My plan is to divide this document into three main sections:
+
+<ul>
+    <li>Feature Design</li>
+    <li>Graphic Design</li>
+    <li>Code Structure</li>
+</ul>
+
+We'll see if this dividing of concerns will survive contact with actual documentation writing.
+
+<!-- ## Getting Started
 
 Get started by **creating a new site**.
 
@@ -32,4 +46,4 @@ npx docusaurus start
 
 Your site starts at `http://localhost:3000`.
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes. -->
