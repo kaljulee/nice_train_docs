@@ -6,15 +6,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'Nice Train Documentation',
+  tagline: 'Hints for future me',
+  url: 'https://kaljulee.github.io',
+  baseUrl: '/nice_train_docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'kaljulee', // Usually your GitHub org/user name.
+  projectName: 'nice_train_docs', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
