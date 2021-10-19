@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknice_train_web=self.webpackChunknice_train_web||[]).push([[452],{8141:function(e){e.exports=JSON.parse('{"allTagsPath":"/nice_train_docs/blog/tags","slug":"/nice_train_docs/blog/tags/hello","name":"hello","count":2,"permalink":"/nice_train_docs/blog/tags/hello"}')}}]);
